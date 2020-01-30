@@ -2,7 +2,7 @@
 /**
  * Amazon order history parser.
  * 
- * @author  Costin Ghiocel <me@costingcl.ca>
+ * @author  Costin Ghiocel <me@costingcl.com>
  */
 
 use GuzzleHttp\Psr7\Request;

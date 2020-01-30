@@ -1,8 +1,8 @@
 <?php
 /**
  * Bootstrap and run.
- * 
- * @author  Costin Ghiocel <me@costingcl.ca>
+ * v1.0.1
+ * @author  Costin Ghiocel <me@costingcl.com>
  */
 
 require 'vendor/autoload.php';

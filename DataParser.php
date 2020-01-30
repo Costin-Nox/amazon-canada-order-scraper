@@ -2,7 +2,7 @@
 /**
  * Parse AmazonScraper data and output to csv.
  * 
- * @author  Costin Ghiocel <me@costingcl.ca>
+ * @author  Costin Ghiocel <me@costingcl.com>
  */
 
 use Carbon\Carbon;
