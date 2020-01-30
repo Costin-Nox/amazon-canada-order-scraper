@@ -14,11 +14,11 @@ PHP >7.1.x
 
 1) Open session.ini and add your sessionid and user agent. You can get this by going to any amazon page while logged in on chrome, opening the inspector, going to network, document and refresh the page. Select the document and look in the headers sections.
 
-a) The session id will be a very long string, copy and paste the whole thing in between the ''
+2) The session id will be a very long string, copy and paste the whole thing in between the ''
 
-b) The user agent will be there as well, copy it and paste it into the ini file.
+3) The user agent will be there as well, copy it and paste it into the ini file.
 
-2) run the code using > php scrape.php -r
+4) run the code using > php scrape.php -r
 
 This will fetch the last 6 months
 
