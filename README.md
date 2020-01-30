@@ -1,10 +1,13 @@
 # Amazon.ca Order Scraper
 A scraper for your amazon orders on the canadian store.
 
-The code will compute stats such as money spent, # of order, #of items, #of returns, value of returned items
+The code will compute stats such as money spent, # of orders, #of items, #of returns, value of returned items..etc.
+
 It will also create a csv file with every item you ordered.
 
-I build this to help me track spending and to easily identify my items for tax purposes. It's a shame amazon canada does not have the option to export your orders.
+I built this to help me track spending and to easily identify my items for tax purposes. It's a shame amazon canada does not have the option to export your orders, until they do, this will get the job done.
+
+It's fairly basic and there's a good chance it will break when amazon updates their layout. I will probably maintain it for a while for my own needs.
 
 # Requirments
 
