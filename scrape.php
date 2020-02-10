@@ -2,7 +2,7 @@
 /**
  * Bootstrap and run.
  * v1.0.1
- * @author  Costin Ghiocel <me@costingcl.com>
+ * @author  Costin G <me@costingcl.com>
  */
 
 require 'vendor/autoload.php';
