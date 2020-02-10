@@ -6,6 +6,8 @@ It will also create a csv file with every item you ordered.
 
 I build this to help me track spending and to easily identify my items for tax purposes. It's a shame amazon canada does not have the option to export your orders.
 
+![Example Output](https://i.ibb.co/C1v1y2b/amazon-scrape.png)
+
 # Requirments
 
 PHP >7.1.x
